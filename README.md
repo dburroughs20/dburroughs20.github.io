@@ -27,7 +27,7 @@ Some of my favorite videogames are Halo 3, Destiny, and Ninja Gaiden.
 ##Websites I Recommend
 	- [Reddit](www.reddit.com) - Reddit is a collection of communities you can participate in and meet people who share the same interests as you. It also contains answers to questions from real people that you wouldn't normally find from a simple google search. 
 
-	- [DIY Car Care](www.carcarekiosk.com) - This website is great for anyone wanting to work on their own car. It includes step by step directions, video tutorials, and free lifehacks for car maintenance on mostly every kind of car out there.
+	- [CarCareKiosk](www.carcarekiosk.com) - This website is great for anyone wanting to work on their own car. It includes step by step directions, video tutorials, and free lifehacks for car maintenance on mostly every kind of car out there.
 
   
  
